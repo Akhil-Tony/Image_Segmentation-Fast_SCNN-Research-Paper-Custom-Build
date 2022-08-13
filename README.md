@@ -8,7 +8,7 @@
 <h4> Trained on Cityscapes DataSet    <a href src="https://www.cityscapes-dataset.com/" >dataset link </a> </h4>
 <h5>accuracy 69% </h5>
 
-## :warning: TechStack/framework used
+## Frameworks used
 - TensorFlow
 - OpenCV
 - Keras
