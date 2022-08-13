@@ -1,5 +1,7 @@
 <h1 align="center">Image Segmentation Using Fast SCNN</h1>
 
+![](https://medium.com/deep-learning-journals/fast-scnn-explained-and-implemented-using-tensorflow-2-0-6bd17c17a49e)
+
 ## :star: Frameworks used
 - TensorFlow
 - OpenCV
