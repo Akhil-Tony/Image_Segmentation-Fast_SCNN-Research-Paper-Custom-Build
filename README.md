@@ -9,3 +9,8 @@
 <h5>accuracy 69% </h5>
 <a href src="https://www.cityscapes-dataset.com/">dataset link</a>
 
+## :warning: TechStack/framework used
+
+- [OpenCV](https://opencv.org/)
+- [Keras](https://keras.io/)
+- [TensorFlow](https://www.tensorflow.org/)
