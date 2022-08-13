@@ -5,9 +5,8 @@
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/label1.png" >
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png" >
 
-<h4> Trained on Cityscapes DataSet</h4>
+<h4> Trained on Cityscapes DataSet <a href src="https://www.cityscapes-dataset.com/">dataset link</a> </h4>
 <h5>accuracy 69% </h5>
-<a href src="https://www.cityscapes-dataset.com/">dataset link</a>
 
 ## :warning: TechStack/framework used
 
