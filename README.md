@@ -9,7 +9,7 @@
 <h5>accuracy 69% </h5>
 
 ## :warning: TechStack/framework used
-
-- [OpenCV](https://opencv.org/)
-- [Keras](https://keras.io/)
-- [TensorFlow](https://www.tensorflow.org/)
+- TensorFlow
+- OpenCV
+- Keras
+- Numpy
