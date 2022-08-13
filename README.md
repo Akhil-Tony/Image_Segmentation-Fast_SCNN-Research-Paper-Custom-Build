@@ -1,10 +1,10 @@
-### After Training for 1 epoch (took 18 hours) with Tesla p100 gpu
+<h5> After Training for 1 epoch (took 18 hours) with Tesla p100 gpu </h5>
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/image1.png" >
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/label1.png" >
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png" >
 <h5>Accuracy 69% </h5>
 <br>
-### Dataset Trained on
+<h5> Dataset Trained on </h5>
 Cityscapes DataSet <br>
 3000 training data <br>
 500 validation data <br>
