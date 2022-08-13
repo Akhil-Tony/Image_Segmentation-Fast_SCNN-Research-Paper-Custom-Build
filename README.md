@@ -1,4 +1,4 @@
-<style>
+
 * {
   box-sizing: border-box;
 }
@@ -15,7 +15,6 @@
   clear: both;
   display: table;
 }
-</style>
 
 <h1 align="center">Image Segmentation Using Fast SCNN</h1>
 
