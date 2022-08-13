@@ -1,3 +1,22 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 <h1 align="center">Image Segmentation Using Fast SCNN</h1>
 
 <h4> After Training for 1 epoch (took 18 hours) with Tesla p100 gpu </h4>
