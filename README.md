@@ -12,6 +12,6 @@
 - Numpy
 
 ## :file_folder: Dataset Used
-- Cityscapes DataSet    
-- accuracy 69% 
+- Cityscapes DataSet
 - <a href src="https://www.cityscapes-dataset.com/" >dataset link </a> 
+
