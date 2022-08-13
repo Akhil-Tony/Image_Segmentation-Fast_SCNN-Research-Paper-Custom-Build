@@ -4,6 +4,6 @@
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png" >
 <h5>Accuracy 69% </h5>
 
-<h5> Dataset Trained on Cityscapes DataSet</h5>
+<h5> Trained on Cityscapes DataSet</h5>
 
 <a href src="https://www.cityscapes-dataset.com/">dataset link</a>
