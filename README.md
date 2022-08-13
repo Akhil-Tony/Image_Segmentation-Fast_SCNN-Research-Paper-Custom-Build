@@ -1,6 +1,6 @@
 <h1 align="center">Image Segmentation Using Fast SCNN</h1>
 
-![alt-text-1](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/image1.png "title-1") ![alt-text-2](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/label1.png "title-2")
+![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/image1.png "title-1") ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/label1.png "title-2")
 
 - <h4> After Training for 1 epoch (took 18 hours) with Tesla p100 gpu </h4>
 <div class="row">
