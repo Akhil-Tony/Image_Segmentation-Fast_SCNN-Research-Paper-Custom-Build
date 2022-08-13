@@ -1,6 +1,4 @@
-# Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build
-Building a Image Segmentation Model from Fast SCNN Research Paper using Tensorflow 
-
+# After Training for 1 epoch (took 18 hours) with tesla p100 gpu
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/image1.png" >
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/label1.png" >
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png" >
