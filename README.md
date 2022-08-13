@@ -6,4 +6,4 @@
 <h5> Trained on Cityscapes DataSet</h5>
 
 <a href src="https://www.cityscapes-dataset.com/">dataset link</a>
-<h5>Accuracy 69% </h5>
+<h5>accuracy 69% </h5>
