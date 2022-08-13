@@ -23,4 +23,4 @@
 
 ## :sunny: Inspiration
 - <h4> Fast-SCNN: Fast Semantic Segmentation Network </h4>
-- <a href="https://arxiv.org/abs/1902.04502">paper link</a>
+- <a href="https://arxiv.org/abs/1902.04502">download pdf</a>
