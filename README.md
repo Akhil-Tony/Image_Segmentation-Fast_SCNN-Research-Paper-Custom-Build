@@ -4,9 +4,8 @@
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png" >
 
 ### Dataset Trained on
-Cityscapes DataSet
-3000 training data
-500 validation data
-1500 testing data
-<br>
+Cityscapes DataSet <br>
+3000 training data <br>
+500 validation data <br>
+1500 testing data <br>
 <a href src="https://www.cityscapes-dataset.com/">link</a>
