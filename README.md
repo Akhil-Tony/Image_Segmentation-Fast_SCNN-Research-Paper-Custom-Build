@@ -2,7 +2,7 @@
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/image1.png" >
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/label1.png" >
 <img src="https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png" >
-####Accuracy 69%
+<h5>Accuracy 69% </h5>
 <br>
 ### Dataset Trained on
 Cityscapes DataSet <br>
