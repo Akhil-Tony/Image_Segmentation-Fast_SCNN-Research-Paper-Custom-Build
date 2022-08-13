@@ -7,6 +7,7 @@
 - OpenCV
 - Keras
 - Numpy
+- Tensorflow Data API
 
 ## :file_folder: Dataset Used
 - Cityscapes DataSet
