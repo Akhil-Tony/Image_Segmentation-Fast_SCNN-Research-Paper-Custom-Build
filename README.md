@@ -21,5 +21,6 @@
 <br>
 ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png)
 
-## :sun: Inspiration
-- paper
+## :sunny: Inspiration
+- Fast SCNN Research Paper
+- <a href="https://arxiv.org/abs/1902.04502">link</a>
