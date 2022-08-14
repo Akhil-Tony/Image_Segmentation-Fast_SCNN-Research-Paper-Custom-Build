@@ -16,11 +16,11 @@
 ## :key: Results
 - After Training for 1 epoch (took 18 hours) with Tesla p100 gpu 
 
-![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/image1.png) 
+![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/image1.png) 
 <br>
-![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/label1.png)
+![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/label1.png)
 <br>
-![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/pred1.png)
+![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/pred1.png)
 
 ## :sunny: Inspiration
 - <h4> Fast-SCNN: Fast Semantic Segmentation Network </h4>
