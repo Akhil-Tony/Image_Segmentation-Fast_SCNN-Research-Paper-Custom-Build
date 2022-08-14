@@ -22,6 +22,6 @@
 <br>
 ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/pred1.png)
 
-## :sunny: Inspiration
+## :sunny: Research Paper
 - <h4> Fast-SCNN: Fast Semantic Segmentation Network </h4>
 - <a href="https://arxiv.org/abs/1902.04502">Download pdf</a>
