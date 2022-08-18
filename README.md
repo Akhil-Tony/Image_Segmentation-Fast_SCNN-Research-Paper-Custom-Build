@@ -14,7 +14,7 @@
 - <a href src="https://www.cityscapes-dataset.com/" >dataset link </a> 
 
 ## :key: Results
-- After Training for 1 epoch (took 18 hours) with Tesla p100 gpu 
+- After Training for 1 epoch (took 14 hours) with Tesla p100 gpu 
 
 ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/image1.png) 
 <br>
