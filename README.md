@@ -22,6 +22,14 @@
 <br>
 ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/pred1.png)
 
+- After Training for 2 epoch (took 32 hours) by using __dice_loss_coiffient loss function__ with Tesla p100 gpu 
+
+![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/image3.png) 
+<br>
+![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/label3.png)
+<br>
+![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/pred3.png)
+
 ## :sunny: Research Paper
 - <h4> Fast-SCNN: Fast Semantic Segmentation Network </h4>
 - <a href="https://arxiv.org/abs/1902.04502">Download pdf</a>
