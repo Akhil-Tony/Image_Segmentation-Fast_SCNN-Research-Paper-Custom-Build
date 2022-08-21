@@ -14,7 +14,7 @@
 - <a href src="https://www.cityscapes-dataset.com/" >dataset link </a> 
 
 ## :key: Results
-- After Training for 1 epoch (took 14 hours) with Tesla p100 gpu 
+- After Training for 1 epoch (took 14 hours) by using __categorical_cross_entrophy loss function__ with Tesla p100 gpu 
 
 ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/image1.png) 
 <br>
@@ -22,7 +22,7 @@
 <br>
 ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/pred1.png)
 
-- After Training for 2 epoch (took 32 hours) by using __dice_loss_coiffient loss function__ with Tesla p100 gpu 
+- After Training for 2 epochs (took 32 hours) by using __dice_loss_coiffient loss function__ with Tesla p100 gpu 
 
 ![](https://github.com/Akhil-Tony/Image_Segmentation-Fast_SCNN-Research-Paper-Custom-Build/blob/master/Images/image3.png) 
 <br>
